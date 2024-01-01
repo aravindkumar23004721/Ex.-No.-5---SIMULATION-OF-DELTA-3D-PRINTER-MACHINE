@@ -24,12 +24,11 @@
 ### 2.	Move the z2-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z2-axis assembly.
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
-## OUTPUT:
+
 ![WhatsApp Image 2023-11-21 at 16 13 49_dce5dc58](https://github.com/aravindkumar23004721/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/148962674/90603210-6f5e-4553-bc72-967709a50961)
 
 ![WhatsApp Image 2023-11-21 at 16 13 32_d76d64f7](https://github.com/aravindkumar23004721/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/148962674/b405460e-409b-4001-bb5a-743b7684c848)
 
-## Output:
 
 ### Name:Aravind kumar sasikumar samundi
 ### Register Number:23004721
